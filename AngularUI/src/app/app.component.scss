@@ -1,0 +1,107 @@
+// css
+//$idp-secondary: #0b1f66;
+$idp-secondary: #11172b;
+$idp-body-text: #0b1f66;
+$idp-navyblue-active: #081a4b;
+$idp-skyblue: #33798e;
+$idp-secondary-blue: #1a284e;
+$idp-primary: #e51937;
+$idp-accent: #4470c3;
+$idp-warn: #e51937;
+$idp-light-grey: #c4c4c4;
+$idp-red-hover: #bf152f;
+$idp-red-active: #991125;
+$idp-blue: #4470c3;
+$idp-medallion-earnings-grey: #6b6b6b;
+$idp-cyan: #0b7bb7;
+$idp-link-blue: #007bff;
+$idp-blue-hover: #096190;
+$idp-darth-vader: #10172e;
+$idp-medium-green: #1c8617;
+$idp-green-dark: #008001;
+$idp-green: #1d994c;
+$idp-green-light: #329f2d;
+$idp-info-icon-focus: #858d9f;
+$idp-navyblue: #0b1f66;
+$idp-navyblue-dark: #1d284e;
+$idp-navyblue-light: #2d4f8d;
+$idp-secondary-light: #0b1f66;
+$idp-secondary-dark: #000724;
+$idp-cyan-light: #0291de;
+$idp-scroll-white: #f7f7f7;
+$idp-transparent: transparent;
+$idp-legacy-blue: #377ad0;
+$idp-legacy-blue-hover: #1f56a1;
+$idp-dark-green: #177f3f;
+$idp-purple: #4f145b;
+$idp-grey: #dadada;
+$idp-dark-red: #da0530;
+$idp-dark-red-hover: #a8232d;
+$idp-dark-red-active: #762527;
+$idp-light-black: #030c16;
+$idp-background-color: #21273b;
+$background-color-card: #f6f6f7;
+$idp-progress-border: #8d8d8d;
+$idp-texarea-border: #013366;
+$idp-horizontal-rule: #e01933;
+$idp-error-red: #761502;
+$idp-indigo: #1b335d;
+$idp-disabled-body-text: #8996a9;
+$idp-carbon-grey: #ededed;
+$white: #ffffff;
+$idp-input-color: #222;
+$idp-gray-comet-light: #616778;
+$black: #000000;
+$dark-black: #151515;
+$idp-light-gray: #777777;
+$idp-medium-gray: #666666;
+$violet: #742f7e;
+$light-green: #f4f8f9;
+$idp-gold: #9f6a29;
+$idp-light-gold: #c78a22;
+$idp-dark-gold: #8b5615;
+$idp-basic: #2a3a73;
+$idp-silver: #747578;
+$idp-platinum: #2f293d;
+$idp-diamond: #43657d;
+$idp-basic-dark: #2a3a73;
+$idp-basic-base: #233060;
+$idp-silver-dark: #65676c;
+$idp-platinum-dark: #1f1b29;
+$idp-diamond-dark: #38586e;
+$idp-matte-gray: #dedfe1;
+
+$primary: $idp-primary;
+$secondary: $idp-secondary;
+$success: $idp-green;
+$info: $idp-blue;
+$warning: $idp-warn;
+$danger: $idp-warn;
+$dark: $idp-darth-vader;
+$gold: $idp-gold;
+$component-active-bg: $secondary;
+$body-bg: $white;
+$body-light: lightgray;
+$body-color: $secondary;
+$paragraph-color: $dark;
+$header-bg: $idp-darth-vader;
+$header-search-bg: $white;
+.nav,body {
+    background-color: $secondary;
+    color: $primary;
+}
+.content {
+    margin-top: 15px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.headerCustomClass {
+    background-color: $secondary;
+    color: $primary;
+    font-weight: bolder !important;
+}
+h2{
+    color: white;
+}
+
+   
